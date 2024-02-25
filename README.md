@@ -13,13 +13,6 @@ I'm a college student at Dinamika Bangsa University
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
+  <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel (PHP Framework)" width="21px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.m.wikipedia.org%2Fwiki%2FBerkas%3ALaravel.svg&psig=AOvVaw3InLHam0g8Jnxm41QtdyjF&ust=1708952737648000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCKuJjHxoQDFQAAAAAdAAAAABAE"/></a>
   <br>
   <br>
-  
-### Github Statistic
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
