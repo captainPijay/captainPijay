@@ -4,10 +4,10 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm a college student at Dinamika Bangsa University
 
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🌱 I’m currently working as a fullstack web developer at Perdana Karya Teknologi (PKIT)
 - 💬 Feel free to ask me about web development, JavaScript, Laravel, PHP etc.
 - 📫 How to reach me: muhammadzahran02@gmail.com
-- ⚡ Fun fact: College Student
+- ⚡ Fun fact: Fresh Graduate
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
