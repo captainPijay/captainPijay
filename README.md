@@ -2,12 +2,12 @@
 
 An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript, and php and make it the main language in creating a project.
 
-I'm a college student at Dinamika Bangsa University
+I am currently pursuing a master's degree at the Dinamika Bangsa University
 
 - 🌱 I’m currently working as a fullstack web developer at Perdana Karya Teknologi (PKIT)
 - 💬 Feel free to ask me about web development, JavaScript, Laravel, PHP etc.
 - 📫 How to reach me: muhammadzahran02@gmail.com
-- ⚡ Fun fact: Fresh Graduate
+- ⚡ Want to know more about myself ?<a href="https://portofolio-jade-eight.vercel.app/">Click Here</a>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
